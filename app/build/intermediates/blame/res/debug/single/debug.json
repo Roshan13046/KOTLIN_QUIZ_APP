@@ -1,0 +1,886 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_java.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\java.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_orange.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\orange.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_green_grapes.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\green_grapes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_assam.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\assam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_karnataka.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\karnataka.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chilly.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\chilly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_iamge4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\iamge4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cinnamon.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cinnamon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_parrotos.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\parrotos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mogra.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\mogra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_coriander.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\coriander.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dahlia.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\dahlia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_walnuts.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\walnuts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cuminseeds.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cuminseeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_option_border_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable\\selected_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_broccoli.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\broccoli.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_christthereddemer.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\christthereddemer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_beetroot.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\beetroot.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tamarind.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tamarind.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sweetpotato.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\sweetpotato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dosball.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\dosball.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capitals.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_capitals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_symbols.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_basmintontennis.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\basmintontennis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultt_option_border_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable\\defaultt_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_turmeric.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\turmeric.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_android.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gymnastic.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\gymnastic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct_option_border_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable\\correct_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\image4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_github.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\img1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_turnip.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\turnip.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_capcicum.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\capcicum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_swim.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\swim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sweetcorn.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\sweetcorn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_daffodil.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\daffodil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tomato.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tomato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_butterflypea.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\butterflypea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nightbloomingcereus.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\nightbloomingcereus.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_anima1.gif.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\anima1.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dillleaves.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\dillleaves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_googlecloud.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\googlecloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_elephantyam.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\elephantyam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lobelia.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\lobelia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rajasthan.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\rajasthan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_passion.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\passion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_parijat.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\parijat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_squash.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\squash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_betelnut.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\betelnut.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_recyclebin.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\recyclebin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fenugreek.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\fenugreek.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blackpepper.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\blackpepper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kabbadi.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\kabbadi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banana.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\banana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_curryleaf.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\curryleaf.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bottlegourd.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\bottlegourd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jasmine.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\jasmine.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pointedgourd.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\pointedgourd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ladyfinger.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\ladyfinger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cucumber.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cucumber.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_diving.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\diving.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_colessum.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\colessum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_maharashtra.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\maharashtra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bittergourd.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\bittergourd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wonders.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_wonders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_garlic.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\garlic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cardamom.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cardamom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kickboxing.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\kickboxing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_berry.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\berry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_up.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\up.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rafflesia.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\rafflesia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_green_apple.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\green_apple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ghostplant.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\ghostplant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pumpkin.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\pumpkin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_onion.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\onion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_westbengal.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\westbengal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ridgegourd.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\ridgegourd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_judokarate.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\judokarate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nagaland.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\nagaland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_daisy.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\daisy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rose.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\rose.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_archery.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\archery.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tabletennis.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tabletennis.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lavender.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\lavender.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sesame.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\sesame.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chichenitza.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\chichenitza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_skatiing.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\skatiing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bihar.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\bihar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chrome.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\chrome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_radish.webp.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\radish.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_radishh.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\radishh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_brinjal.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\brinjal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wallofchina.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\wallofchina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tripura.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tripura.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jharkhand.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\jharkhand.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_trophy3.gif.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\trophy3.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_black_grapes.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\black_grapes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gardenradish.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\gardenradish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lily.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\lily.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_youtube.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_harayana.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\harayana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_staranise.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\staranise.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_petrajordan.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\petrajordan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_elephantears.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\elephantears.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chess.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\chess.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_spinach.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\spinach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chhatisgarh.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\chhatisgarh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_magnolia.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\magnolia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_spices.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_spices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_beans.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\beans.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uttarakhand.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\uttarakhand.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_googlepay.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\googlepay.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cherry.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cherry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_machupichu.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\machupichu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_css.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\css.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_marigold.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\marigold.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_powerlifting.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\powerlifting.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_badminton.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\badminton.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_linux.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\linux.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gujarat.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\gujarat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_golf.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\golf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_strawberry.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\strawberry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_asafoetida.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\asafoetida.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tajmahal.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tajmahal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mango.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\mango.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_peas.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\peas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mp.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_arunachalpradesh.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\arunachalpradesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wrestling.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\wrestling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong_option_border_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable\\wrong_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hibiscus.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\hibiscus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_anima2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\anima2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jandk.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\jandk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_himachalpradesh.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\himachalpradesh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_meghalaya.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\meghalaya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz_types.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_quiz_types.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_amonds.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\amonds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bayleaves.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\bayleaves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ruby.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\ruby.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mizoram.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\mizoram.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cloves.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cloves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sikkim.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\sikkim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_odisha.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\odisha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_twitter.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sunflower.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\sunflower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable\\ic_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pomegranate.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\pomegranate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kerala.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\kerala.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_netflix.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\netflix.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bowling.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\bowling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kkiwi.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\kkiwi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_brahmakamal.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\brahmakamal.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blockchain.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\blockchain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zinnia.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\zinnia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_corianderseeds.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\corianderseeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_javascript.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\javascript.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cashewnuts.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cashewnuts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kale.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\kale.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nutmeg.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\nutmeg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_saffron.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\saffron.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vegetables.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_vegetables.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instagam.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\instagam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cabbage.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cabbage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_windows.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\windows.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_potatoes.webp.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\potatoes.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_punjab.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\punjab.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_orchids.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\orchids.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sports.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_sports.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rajnigandha.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\rajnigandha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_plumeria.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\plumeria.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sparkling_trophy.gif.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\sparkling_trophy.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carrot.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\carrot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cauliflower.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\cauliflower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_goa.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\goa.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_facebook.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\facebook.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mustardseeds.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\mustardseeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_papaya.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\papaya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paytm.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\paytm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_biathlon.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\biathlon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_andrapradesh.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\andrapradesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manipur.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\manipur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_coromseeds.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\coromseeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tulip.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tulip.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mozilla.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\mozilla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kalonjimangrel.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\kalonjimangrel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz_question_acivity.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_quiz_question_acivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_html.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\html.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flowers.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\layout\\activity_flowers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_anima3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\anima3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tamilnadu.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\tamilnadu.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lotus.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\lotus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_redspinach.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\redspinach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_telangana.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\telangana.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pyramidofgiza.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\pyramidofgiza.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_linkedin.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_billyard.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\KotlinAppsProjects\\Advance_Quiz_App\\app\\src\\main\\res\\drawable-v24\\billyard.jpg"
+    }
+]

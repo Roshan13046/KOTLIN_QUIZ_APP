@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flagsquizapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:5:5-39:19
+12        android:allowBackup="true"
+12-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3680f33e943d101e1f4a17441664df75\core-1.3.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.flagsquizapp.Wonders" />
+21-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:12:9-54
+21-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:12:19-42
+22        <activity android:name="com.example.flagsquizapp.Capitals" />
+22-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:13:9-46
+22-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:13:19-43
+23        <activity android:name="com.example.flagsquizapp.Flowers" />
+23-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:14:9-45
+23-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:14:19-42
+24        <activity android:name="com.example.flagsquizapp.Spices" />
+24-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:15:9-44
+24-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:15:19-41
+25        <activity android:name="com.example.flagsquizapp.Symbols" />
+25-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:16:9-45
+25-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:16:19-42
+26        <activity android:name="com.example.flagsquizapp.Vehicles" />
+26-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:17:9-46
+26-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:17:19-43
+27        <activity android:name="com.example.flagsquizapp.Sports" />
+27-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:18:9-44
+27-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:18:19-41
+28        <activity android:name="com.example.flagsquizapp.Vegetables" />
+28-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:19:9-48
+28-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:19:19-45
+29        <activity android:name="com.example.flagsquizapp.QuizTypes" />
+29-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:20:9-47
+29-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:20:19-44
+30        <activity
+30-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:21:9-24:55
+31            android:name="com.example.flagsquizapp.ResultActivity"
+31-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:22:13-43
+32            android:screenOrientation="portrait"
+32-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:23:13-49
+33            android:theme="@style/NoActionBarTheme" />
+33-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:24:13-52
+34        <activity
+34-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:25:9-27:52
+35            android:name="com.example.flagsquizapp.QuizQuestionAcivity"
+35-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:26:13-48
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:27:13-49
+37        <activity
+37-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:28:9-38:20
+38            android:name="com.example.flagsquizapp.MainActivity"
+38-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:29:13-41
+39            android:screenOrientation="portrait"
+39-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:30:13-49
+40            android:theme="@style/NoActionBarTheme"
+40-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:31:13-52
+41            android:windowSoftInputMode="adjustResize" >
+41-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:32:13-55
+42            <intent-filter>
+42-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:33:13-37:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:34:17-69
+43-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:34:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:36:17-77
+45-->C:\Users\Lenovo\Desktop\KotlinAppsProjects\Advance_Quiz_App\app\src\main\AndroidManifest.xml:36:27-74
+46            </intent-filter>
+47        </activity>
+48    </application>
+49
+50</manifest>

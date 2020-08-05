@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizTypes"
+    android:fillViewport="true"
+    android:background="@drawable/anima1"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_quiz_types"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:textColor="#ffff"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:text="Choose the Quiz Type to Play."
+            />
+
+        <Button
+            android:id="@+id/tv_type_flowers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="FLOWERS"/>
+
+        <Button
+            android:id="@+id/tv_type_fruits"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="FRUITS"/>
+
+        <Button
+            android:id="@+id/tv_type_vegetables"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="VEGETABLES"/>
+
+        <Button
+            android:id="@+id/tv_type_spices"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="SPICES"/>
+
+        <Button
+            android:id="@+id/tv_type_sports"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="SPORTS"/>
+
+        <Button
+            android:id="@+id/tv_type_capitals"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="STATE CAPITAL"/>
+
+        <Button
+            android:id="@+id/tv_type_wonders"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="SEVEN WONDERS"/>
+
+        <Button
+            android:id="@+id/tv_type_symbols"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:padding="15dp"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:textColor="#ffff"
+            android:textSize="18sp"
+            android:text="LOGOS / SYMBOLS"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
