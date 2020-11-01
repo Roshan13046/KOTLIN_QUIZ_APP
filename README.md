@@ -48,7 +48,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987648-30660500-f4e2-11ea-94b7-67f1bf551a57.jpg">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <img src="https://user-images.githubusercontent.com/55108788/92987648-30660500-f4e2-11ea-94b7-67f1bf551a57.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
@@ -62,14 +62,14 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987655-44aa0200-f4e2-11ea-8c9e-478a530097c0.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <img src="https://user-images.githubusercontent.com/55108788/92987655-44aa0200-f4e2-11ea-8c9e-478a530097c0.jpg" alt="Northern Lights" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987658-47a4f280-f4e2-11ea-9a8a-4071c152ab8c.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    <img src="https://user-images.githubusercontent.com/55108788/92987658-47a4f280-f4e2-11ea-9a8a-4071c152ab8c.jpg" alt="Mountains" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
