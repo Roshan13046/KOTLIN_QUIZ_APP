@@ -1,79 +1,54 @@
 # KOTLIN_QUIZ_APP
 This is an advance quiz app made for sudents to test their general knowledge with 15 varieties of Quizzes.
 
-![image1](https://user-images.githubusercontent.com/55108788/92987648-30660500-f4e2-11ea-94b7-67f1bf551a57.jpg)
+# Professional Maths QuizGame WebApp
 
-![image2](https://user-images.githubusercontent.com/55108788/92987651-378d1300-f4e2-11ea-8eba-25c2cdb50d07.jpg)
+This Project is made as a part of Learning  Web Development. 
 
-![QuizType5](https://user-images.githubusercontent.com/55108788/92987655-44aa0200-f4e2-11ea-8c9e-478a530097c0.jpg)
+This webpage is made right from scratch to create a dynamic Website.
 
-![QuizType4](https://user-images.githubusercontent.com/55108788/92987658-47a4f280-f4e2-11ea-9a8a-4071c152ab8c.jpg)
+<b>Tools: HTML, CSS, JQuery, Git</b>
 
-![QuizType3](https://user-images.githubusercontent.com/55108788/92987660-48d61f80-f4e2-11ea-8913-2135157cc2ec.jpg)
+If you find any issues with the currently present implementations, feel to correct them or create an issue mentioning those.
 
-![QuizType2](https://user-images.githubusercontent.com/55108788/92987664-4c69a680-f4e2-11ea-8951-0d992ebb1c4e.jpg)
+## Project Description
+● Developed as an entertainment platform for KIDS/Students
+● Architected using CSS, JavaScript, JQuery UI, Local Storage.
+● Developed for students, KIDS for entertaining children while playing Maths Quizzes, etc.
 
-![QuizType7](https://user-images.githubusercontent.com/55108788/92987668-54c1e180-f4e2-11ea-9553-1ab79011a71a.jpg)
 
-![QuizType8](https://user-images.githubusercontent.com/55108788/92987669-568ba500-f4e2-11ea-925c-af6a00b96345.jpg)
+# Functionalities of App:
 
-![LeaderBordScore](https://user-images.githubusercontent.com/55108788/92987672-5db2b300-f4e2-11ea-8ed5-c324cc1d24f6.jpg)
+The different functionalities of my app are as follows
 
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
+●On clicking the start button the Quiz window pops the quiz question along the 4 options.
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
 
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
+●There is a 60 seconds timer set.
 
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
+●There are 4 buttons showing 4 random options out of which anyone one option is correct.
 
-<div class="gallery">
-  <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987648-30660500-f4e2-11ea-94b7-67f1bf551a57.jpg">
-    <img src="https://user-images.githubusercontent.com/55108788/92987648-30660500-f4e2-11ea-94b7-67f1bf551a57.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+●If a user clicks a wrong option then there is a buzzer at the top which shows red signal with "Wrong Answer".
 
-<div class="gallery">
-  <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987651-378d1300-f4e2-11ea-8eba-25c2cdb50d07.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+●If a user clicks a correct option then there is a buzzer at the top which shows green signal with "Correct Answer".
 
-<div class="gallery">
-  <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987655-44aa0200-f4e2-11ea-8c9e-478a530097c0.jpg">
-    <img src="https://user-images.githubusercontent.com/55108788/92987655-44aa0200-f4e2-11ea-8c9e-478a530097c0.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+●Once the timer ends then the Game Overs with poping of User's Score.
 
-<div class="gallery">
-  <a target="_blank" href="https://user-images.githubusercontent.com/55108788/92987658-47a4f280-f4e2-11ea-9a8a-4071c152ab8c.jpg">
-    <img src="https://user-images.githubusercontent.com/55108788/92987658-47a4f280-f4e2-11ea-9a8a-4071c152ab8c.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+## Project Link: 
 
-</body>
-</html>
+Check [Project] (https://roshan13046.github.io/RoshanWebMathFunGame.github.io/)
+
+## Hacktoberfest
+
+This repo is Hacktoberfest friendly. But make sure that the you don't spam with PRs. Read the `CONTRIBUTING.md` file for Contribution Guidelines.
+
+For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
+
+https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
+
+## Contributions
+
+Read the [Contribution Guidlines](https://github.com/Roshan13046/MathsQuizGame/blob/master/CONTRIBUTING.md) before you contribute.
+
+You can also create an issue or [contact us](https://github.com/Roshan13046) if you have any doubts.
 
