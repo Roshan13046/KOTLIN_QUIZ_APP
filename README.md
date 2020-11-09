@@ -13,8 +13,11 @@ This Android App is made right from scratch.
 If you find any issues with the currently present implementations, feel to correct them or create an issue mentioning those.
 
 ## Project Description
+
 ● Developed as an Android Mobile Application for our College Quiz Events with engaging UI and Audio Sound.
+
 ● Architected using Java, KOTLIN, XML/JSON, Android Studio.
+
 ● Allows the user to test their knowledge on various Topics with 8 varieties of Quizzes and finally check their leaderboard score.
 
 
