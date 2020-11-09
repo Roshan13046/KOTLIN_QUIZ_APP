@@ -31,7 +31,6 @@ The different functionalities of my app are as follows
 
 ●Once a particular quiz type is selected, move to the new screen which pops multiple choice questions of that particular type of Quiz.
 
-
 ●If a user choose a wrong option and click on SUBMIT then the options shows red signal with "Wrong Answer".
 
 ●If a user choose a correct option and Click on SUBMIT then the options shows green signal with "Correct Answer".
@@ -45,7 +44,7 @@ The different functionalities of my app are as follows
 
 ## Project Link: 
 
-Check [Project] (https://roshan13046.github.io/RoshanWebMathFunGame.github.io/)
+Check [Project] (https://github.com/Roshan13046/KOTLIN_QUIZ_APP)
 
 ## Hacktoberfest
 
@@ -57,7 +56,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 ## Contributions
 
-Read the [Contribution Guidlines](https://github.com/Roshan13046/MathsQuizGame/blob/master/CONTRIBUTING.md) before you contribute.
+Read the [Contribution Guidlines](https://github.com/Roshan13046/KOTLIN_QUIZ_APP/blob/master/Contribution.md) before you contribute.
 
 You can also create an issue or [contact us](https://github.com/Roshan13046) if you have any doubts.
 
