@@ -4,36 +4,41 @@ This is an advance quiz app made for sudents to test their general knowledge wit
 ![QuizApp1](https://user-images.githubusercontent.com/55108788/97798467-61de8f80-1c4c-11eb-9550-ce2f79f34ae3.png)
 ![quizApp2](https://user-images.githubusercontent.com/55108788/97798474-6b67f780-1c4c-11eb-8dc2-9313588280bb.png)
 
-This Project is made as a part of Learning  Web Development. 
+This Project is made as a part of Learning  Android Development. 
 
-This webpage is made right from scratch to create a dynamic Website.
+This Android App is made right from scratch.
 
-<b>Tools: HTML, CSS, JQuery, Git</b>
+<b>Tools: Kotlin, Java, Android Studio, Git</b>
 
 If you find any issues with the currently present implementations, feel to correct them or create an issue mentioning those.
 
 ## Project Description
-● Developed as an entertainment platform for KIDS/Students
-● Architected using CSS, JavaScript, JQuery UI, Local Storage.
-● Developed for students, KIDS for entertaining children while playing Maths Quizzes, etc.
+● Developed as an Android Mobile Application for our College Quiz Events with engaging UI and Audio Sound.
+● Architected using Java, KOTLIN, XML/JSON, Android Studio.
+● Allows the user to test their knowledge on various Topics with 8 varieties of Quizzes and finally check their leaderboard score.
 
 
 # Functionalities of App:
 
 The different functionalities of my app are as follows
 
-●On clicking the start button the Quiz window pops the quiz question along the 4 options.
+●On Starting the Android App, the Home Screen Appears with Welcome message and ask the player to input his name.
+
+●Once Player name input is taken, then click on start button.
+
+●Once a particular quiz type is selected, move to the new screen which pops multiple choice questions of that particular type of Quiz.
 
 
-●There is a 60 seconds timer set.
+●If a user choose a wrong option and click on SUBMIT then the options shows red signal with "Wrong Answer".
 
-●There are 4 buttons showing 4 random options out of which anyone one option is correct.
+●If a user choose a correct option and Click on SUBMIT then the options shows green signal with "Correct Answer".
 
-●If a user clicks a wrong option then there is a buzzer at the top which shows red signal with "Wrong Answer".
+●On answering different Quizzes the Progress ar at the top moves forward.
 
-●If a user clicks a correct option then there is a buzzer at the top which shows green signal with "Correct Answer".
+●At the end of the Game, the final LeaderBorad Score of the Player Appears with the Congratulations message and Score.
 
-●Once the timer ends then the Game Overs with poping of User's Score.
+●Again it returns back to the Home Screen Activity.
+
 
 ## Project Link: 
 
